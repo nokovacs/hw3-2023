@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Verdana;
     background-color: #000000;
-    color: #ffff;
+    color: #FFFFFF;
     margin: 20px 20px 0px 20px;
 }
 
@@ -43,14 +43,14 @@ div{
 }
 
 .red{
-    background-color: #ff0000;
+    background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
     border-width: 0px 0px 2px 5px;
 }
 
 .blue{
-    background-color: #0000ff;
+    background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
@@ -61,7 +61,7 @@ div{
 }
 
 .yellow{
-    background-color: #ffff00;
+    background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
     border-width: 0px 0px 2px 5px;
