@@ -2,8 +2,7 @@ body{
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffff;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin: 20px 20px 0px 20px;
 }
 
 h1{
@@ -19,8 +18,7 @@ h2{
 
 p{
     font-size: 24px;
-    padding-left: 10px;
-    padding-top: 10px;
+    padding: 10px 0px 0px 10px;
 }
 
 img{
