@@ -26,14 +26,13 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: 10px white dashed;
+    border: 10px dashed #FFFFFF;
 }
 
 div{
-    height: auto;
     min-height: 125px;
     padding: 20px;
-    border: white 3px solid;
+    border: #FFFFFF 3px solid;
 }
 
 .introduction{
